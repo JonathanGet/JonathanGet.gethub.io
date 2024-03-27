@@ -1,4 +1,13 @@
-title: Jonathan Ramos
+# Site settings
+description: A blog about Jonathan Ramos dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
 
-theme: jekyll-theme-THEME-particle
-remote_theme: particle
+# User settings
+username: Jonathan Ramos
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Noc Tech 
+email: jonathan.ramosit@email.com
+twitter_username: 
+github_username:  
+gplus_username:
